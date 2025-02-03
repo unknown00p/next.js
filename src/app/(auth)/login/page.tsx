@@ -1,5 +1,6 @@
-import React from 'react'
-
+export const metadata = {
+  title: "auth" 
+}
 function login() {
   return <h1>login</h1>
 }
