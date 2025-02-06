@@ -1,3 +1,5 @@
+import '@/app/globals.css'
+
 export const metadata = {
     title: "blogs for devlopers",
     description: "a blog article written by to notch devlopers can be found here"
