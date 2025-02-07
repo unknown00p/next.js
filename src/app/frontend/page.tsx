@@ -9,8 +9,8 @@ export default function articals() {
   }
   return (
     <>
-      <h1>hello next.js</h1>
-      <h3 onClick={redirectFunc}>GO TO</h3>
+      <h1>hello frontend</h1>
+      <h3 onClick={redirectFunc}>GO TO ABOUT</h3>
     </>
   );
 }

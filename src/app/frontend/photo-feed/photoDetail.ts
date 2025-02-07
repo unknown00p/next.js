@@ -1,0 +1,51 @@
+export const wondersOfWorld = [
+    {
+      id: "1",
+      Name: "Great Wall of China",
+      age: "Built ~7th century BC",
+      profileImg: "https://cdn.thecollector.com/wp-content/uploads/2021/12/great-wall-china-national-geographic.jpg",
+      location: "China",
+    },
+    {
+      id: "2",
+      Name: "Petra",
+      age: "Established ~312 BC",
+      profileImg: "https://cdn.thecollector.com/wp-content/uploads/2021/12/petra-jordan-world-wonder-scaled-1.jpg",
+      location: "Jordan",
+    },
+    {
+      id: "3",
+      Name: "Christ the Redeemer",
+      age: "Completed in 1931",
+      profileImg: "https://cdn.thecollector.com/wp-content/uploads/2021/12/christ-the-redeemer-statue-rio-1-scaled.jpg",
+      location: "Brazil",
+    },
+    {
+      id: "4",
+      Name: "Machu Picchu",
+      age: "Built ~15th century",
+      profileImg: "https://cdn.thecollector.com/wp-content/uploads/2021/12/machu-picchu-world-wonder.jpg",
+      location: "Peru",
+    },
+    {
+      id: "5",
+      Name: "Chichen Itza",
+      age: "Built ~600 AD",
+      profileImg: "https://cdn.thecollector.com/wp-content/uploads/2021/12/chichen-itza-image-1-1.jpg",
+      location: "Mexico",
+    },
+    {
+      id: "6",
+      Name: "Colosseum",
+      age: "Completed in 80 AD",
+      profileImg: "https://cdn.thecollector.com/wp-content/uploads/2021/12/colosseum-world-wonder-national-geographic.jpg",
+      location: "Italy",
+    },
+    {
+      id: "7",
+      Name: "Taj Mahal",
+      age: "Completed in 1648 AD",
+      profileImg: "https://cdn.thecollector.com/wp-content/uploads/2021/12/the-taj-mahal-architectural-digest.jpg",
+      location: "India",
+    },
+  ];
